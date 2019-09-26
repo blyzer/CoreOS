@@ -1,0 +1,2 @@
+# CoreOS
+for bootstrap script
